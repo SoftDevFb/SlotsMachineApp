@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlotsMachineApp", "SlotsMachineApp\SlotsMachineApp.csproj", "{DB05ECB0-C399-4987-A280-0872F76737D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB05ECB0-C399-4987-A280-0872F76737D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB05ECB0-C399-4987-A280-0872F76737D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB05ECB0-C399-4987-A280-0872F76737D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB05ECB0-C399-4987-A280-0872F76737D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26B969DB-EFDD-4847-B12C-BA4E07F2EE56}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://cisteam.otc.edu/tfs/fb0864568
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = SlotsMachineApp\\SlotsMachineApp.csproj
+		SccProjectName1 = SlotsMachineApp
+		SccLocalPath1 = SlotsMachineApp
+	EndGlobalSection
+EndGlobal

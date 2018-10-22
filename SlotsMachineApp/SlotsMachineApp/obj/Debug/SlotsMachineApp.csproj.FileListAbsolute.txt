@@ -1,0 +1,10 @@
+C:\Users\barri\source\repos\SlotsMachineApp\SlotsMachineApp\bin\Debug\SlotsMachineApp.exe.config
+C:\Users\barri\source\repos\SlotsMachineApp\SlotsMachineApp\bin\Debug\SlotsMachineApp.exe
+C:\Users\barri\source\repos\SlotsMachineApp\SlotsMachineApp\bin\Debug\SlotsMachineApp.pdb
+C:\Users\barri\source\repos\SlotsMachineApp\SlotsMachineApp\obj\Debug\SlotsMachineApp.Form1.resources
+C:\Users\barri\source\repos\SlotsMachineApp\SlotsMachineApp\obj\Debug\SlotsMachineApp.Properties.Resources.resources
+C:\Users\barri\source\repos\SlotsMachineApp\SlotsMachineApp\obj\Debug\SlotsMachineApp.csproj.GenerateResource.cache
+C:\Users\barri\source\repos\SlotsMachineApp\SlotsMachineApp\obj\Debug\SlotsMachineApp.csproj.CoreCompileInputs.cache
+C:\Users\barri\source\repos\SlotsMachineApp\SlotsMachineApp\obj\Debug\SlotsMachineApp.exe
+C:\Users\barri\source\repos\SlotsMachineApp\SlotsMachineApp\obj\Debug\SlotsMachineApp.pdb
+C:\Users\barri\source\repos\SlotsMachineApp\SlotsMachineApp\obj\Debug\SlotsMachineApp.csprojAssemblyReference.cache
